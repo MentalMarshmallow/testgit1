@@ -4,4 +4,5 @@ void setup()
 }
 void draw()
 {
+  rect(200,200,50,50);
 }
